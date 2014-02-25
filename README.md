@@ -1,0 +1,1 @@
+This is simple library management webapplication developed in J2EE.
